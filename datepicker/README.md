@@ -5,8 +5,8 @@
 ---
 
 ## Screenshot
+<img width="422" height="787" alt="32" src="https://github.com/user-attachments/assets/4f4aabb4-202a-4125-8207-bc6066bb8af5" />
 
-> **How to add this:** Run your app, take a screenshot, then on GitHub click the pencil icon to edit this README, and drag your image file into the editor. It will auto-embed.
 
 ---
 
